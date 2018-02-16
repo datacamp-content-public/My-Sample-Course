@@ -1,39 +1,7 @@
 ---
-title: Test
-description: Test
-
----
-## Sample exercise
-
-```yaml
-type: NormalExercise
-lang: python
-xp: 100
-skills: 2
-key: 143358ce10
-```
+title: Introduction to Python Development
+description: >-
+  This is chapter description Introduction to Python Development Introduction to Python Development Introduction to Python Development
 
 
-`@instructions`
 
-`@hint`
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
