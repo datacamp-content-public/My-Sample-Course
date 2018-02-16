@@ -101,3 +101,33 @@ this is feedback
 
 
 
+
+---
+## TabsExercise
+
+```yaml
+type: TabExercise
+
+xp: 
+
+key: 8b9f4585d3
+```
+
+This is tabs
+
+
+
+`@pre_exercise_code`
+```{}
+pre exercise code
+```
+`@sample_code`
+```{}
+sample
+```
+
+
+
+
+
+
