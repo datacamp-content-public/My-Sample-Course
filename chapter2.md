@@ -56,3 +56,59 @@ asdasdasd
 
 
 
+
+---
+## Insert exercise title here
+
+```yaml
+type: BulletExercise
+
+xp: 
+
+key: 7ed3ed9a61
+```
+
+sdadasdasd
+
+
+
+`@pre_exercise_code`
+```{}
+sadasda
+```
+
+
+
+
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 01bcc854eb
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
+
