@@ -41,3 +41,31 @@ This is solution
 
 
 
+
+---
+## MultipleChoiceExercise
+
+```yaml
+type: MultipleChoiceExercise
+
+xp: 
+
+key: 03cbaa8342
+```
+
+This is assignment
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
