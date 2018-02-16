@@ -69,3 +69,35 @@ This is assignment
 
 
 
+
+---
+## PUREMCQ
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 
+
+key: 37b85d7b55
+```
+
+This is asiignment
+
+
+`@hint`
+This is Hint
+
+
+
+
+
+`@possible_answers`
+These are possible answers
+These are possible answers
+These are possible answers
+
+`@feedbacks`
+this is feedback
+
+
+
